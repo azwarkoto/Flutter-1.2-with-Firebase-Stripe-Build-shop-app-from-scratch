@@ -1,6 +1,6 @@
+## Mockup and download it from google playstore 👇
 
-
-(https://user-images.githubusercontent.com/38382273/121786767-b676bf80-cbca-11eb-8ebb-604d79d6af84.png)
+https://user-images.githubusercontent.com/38382273/121786767-b676bf80-cbca-11eb-8ebb-604d79d6af84.png
 
 
 ## Starter project 👇
